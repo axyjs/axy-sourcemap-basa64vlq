@@ -1,0 +1,34 @@
+{
+    "name": "axy-sourcemap-basa64vlq",
+    "version": "0.1.0",
+    "description": "Codec for VLQ (variable-length quantity) Base64 algorithm",
+    "license": "MIT",
+    "homepage": "https://github.com/axyjs/axy-sourcemap-base64vlq",
+    "author": "Oleg Grigoriev <go.vasac@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/axyjs/axy-sourcemap-base64vlq"
+    },
+    "main": "index.js",
+    "files": [
+        "index.js",
+        "signed.js",
+        "vlq.js",
+        "base64.js",
+        "LICENSE"
+    ],
+    "dependencies": {},
+    "keywords": [
+        "Base64",
+        "VLQ",
+        "Source Map"
+    ],
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-typescript": "~0.6.1",
+        "grunt-contrib-nodeunit": "~0.4.1",
+        "grunt-tslint": "2.0.0",
+        "grunt-contrib-jshint": "~0.11.1",
+        "grunt-jsonlint": "~1.0.4"
+    }
+}
