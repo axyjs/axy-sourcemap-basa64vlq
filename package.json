@@ -1,6 +1,6 @@
 {
-    "name": "axy-sourcemap-basa64vlq",
-    "version": "0.1.0",
+    "name": "axy-sourcemap-base64vlq",
+    "version": "0.1.1",
     "description": "Codec for VLQ (variable-length quantity) Base64 algorithm",
     "license": "MIT",
     "homepage": "https://github.com/axyjs/axy-sourcemap-base64vlq",
